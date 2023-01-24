@@ -17,3 +17,11 @@ section{
 .half-with img{
     width: 90%;
 }
+.hire-me-button{
+    text-decoration: none;
+    background-image: linear-gradient(Orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px ;
+    border-radius: 5px;
+}
